@@ -1,6 +1,5 @@
-# Snake-Game-with-Deep-learning
-Developing a snake game using python and pygame which will use a neural network to automatically play the game.
+Snake Game with Deep learning
+Simple use of neural net to make a bot using python and pygame that plays the game of Classic snake.
 
-To know more about algorithm used in this code you can follow this blog https://theailearner.com/2018/04/19/snake-game-with-deep-learning/
+Kudos to AIlerner for providing the base understanding of this.
 
-You can also see this https://www.youtube.com/watch?v=ukEkn3bvi4w
